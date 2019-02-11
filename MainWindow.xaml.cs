@@ -1,6 +1,6 @@
 ﻿/*Name:Elliott McArthur
  *Date: Feb 8, 2019
- * Ipo Model
+ * Area calculator 
  */
 using System;
 using System.Collections.Generic;
